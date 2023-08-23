@@ -61,7 +61,7 @@ var (
 	}, "|"))
 )
 
-const maxContextIterations = 120
+const maxContextIterations = 420
 
 // Evaluator provides a set of given Blocks with contextual information.
 // Evaluator is an important step in retrieving Block values that can be used in the
